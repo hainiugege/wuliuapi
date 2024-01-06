@@ -1,7 +1,7 @@
 {
-    "name": "hainiugege/thinkphp6-wlapi",
+    "name": "hainiugege/wuliuapi",
     "description": "logistics api package for thinkphp6",
-    "homepage": "https://github.com/hainiugege/thinkphp6-wlapi",
+    "homepage": "https://github.com/hainiugege/wuliuapi",
     "license": "Apache-2.0",
     "minimum-stability": "stable",
     "version": "1.0.0",
@@ -12,7 +12,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/hainiugege/thinkphp6-wlapi/issues"
+        "issues": "https://github.com/hainiugege/wuliuapi/issues"
     },
     "require": {
         "php": ">=5.4.0"
