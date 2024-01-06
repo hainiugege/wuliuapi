@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "think\\wenhainan\\": "src/"
+            "think\\hainiugege\\": "src/"
         }
     },
     "extra": {
